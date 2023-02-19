@@ -6,4 +6,8 @@ With over billions using their phones and other digital devices for hours. Marke
 This domain can directly or inversely affect the company depending upon the ways and principles used while marketing. 
 Example: A reel with a promotional message at theend is usually a turn off. Repetitive advertisements that hinder good User Experience in the app.
 
-##Market Research
+## Market Research
+Finding answers to questions like :
+
+Finding who the Target Audience is?
+Where to find the Target Audience?
