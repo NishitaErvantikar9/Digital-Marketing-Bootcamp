@@ -13,35 +13,5 @@ Finding answers to questions like :
 Finding who the Target Audience is?
 Where to find the Target Audience?
 
-      | S.NO | TOPIC               |
-      | :--: | :------------------ |
-      |  1   | [MARKET RESEARCH]() |
-      |  2   | [STRATEGY]()        |
-      |  3   | [BUILD A WEBSITE]() |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
-      |      |                     |
+    
 
