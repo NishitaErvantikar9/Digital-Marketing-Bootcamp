@@ -18,7 +18,7 @@ Therefore, learning the right way is important.
 
 
 ## Market Research
-First step to marking you, your product or your client's product is proper market research relevant to the product.
+First step to marketing you, your product or your client's product is proper market research relevant to the product.
 Finding answers to questions like :
 
 - Finding who the Target Audience is?
