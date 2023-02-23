@@ -23,7 +23,8 @@ Finding answers to questions like :
 
 - Finding who the Target Audience is?
 - Where to find the Target Audience?
-You have to make a buyer persona for that.
+
+**You have to make a buyer persona for that**.
 
 <img src="https://user-images.githubusercontent.com/120945994/220836395-89aa3b2d-538b-43c4-9a4b-d44daa7af619.png" height="300px" width="300px">
     
