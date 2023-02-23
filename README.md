@@ -15,6 +15,6 @@ Finding answers to questions like :
 - Where to find the Target Audience?
 You have to make a buyer persona for that.
 ![General Buyer persona](https://user-images.githubusercontent.com/120945994/220836395-89aa3b2d-538b-43c4-9a4b-d44daa7af619.png)
-
+<img src="https://user-images.githubusercontent.com/120945994/220836395-89aa3b2d-538b-43c4-9a4b-d44daa7af619.png" height="200px" width="300px">
     
 
