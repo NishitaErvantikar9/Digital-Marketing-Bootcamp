@@ -7,9 +7,14 @@ If you are using social media, internet or any digital product to promote your s
 <br>
 <img src="https://github.com/NishitaErvantikar9/Digital-Marketing-Bootcamp/blob/main/RESOURCES/Images/media-removebg-preview.png" height="180px" width="300px">
 <br>
+<details>
+<summary>Importance of Learning Digital Marketing</summary>
 This domain can directly or inversely affect the company depending upon the ways and principles used while marketing. 
 Example: A reel with a promotional message at theend is usually a turn off. Repetitive advertisements that hinder good User Experience in the app.
 Therefore, learning the right way is important.
+
+</details>
+
 
 ## Market Research
 Finding answers to questions like :
