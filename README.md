@@ -9,6 +9,7 @@ If you are using social media, internet or any digital product to promote your s
 <br>
 <details>
 <summary>Importance of Learning Digital Marketing</summary>
+    <br>
 This domain can directly or inversely affect the company depending upon the ways and principles used while marketing. 
 Example: A reel with a promotional message at theend is usually a turn off. Repetitive advertisements that hinder good User Experience in the app.
 Therefore, learning the right way is important.
