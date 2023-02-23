@@ -11,8 +11,8 @@ Example: A reel with a promotional message at theend is usually a turn off. Repe
 ## Market Research
 Finding answers to questions like :
 
-Finding who the Target Audience is?
-Where to find the Target Audience?
+- Finding who the Target Audience is?
+- Where to find the Target Audience?
 
     
 
